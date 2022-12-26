@@ -11,5 +11,13 @@ The task are handled in a Google sheet which contains two sheets. In the first o
 - In first sheet the names can be chosen only from the sesond sheet via drop-down menu
 - The contact adresses also are filled automatically with VLOOKUP from the second sheet.
 
-<img src="first sheet.png" width="400">
-<img src="second sheet.png" width="400">
+<img src="first sheet.png" width="600">
+<img src="second sheet.png" width="600">
+
+The flow:
+<img src="deadline reminder 1.png" width="600">
+<img src="deadline reminder 2.png" width="600">
+<img src="deadline reminder 3.png" width="600">
+
+## Result:
+<img src="result.png" width="600">
