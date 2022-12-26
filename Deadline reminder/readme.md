@@ -16,9 +16,9 @@ The task are handled in a Google sheet which contains two sheets. In the first o
 
 ### The flow:
 
-<img src="deadline reminder 1.png" width="600">
-<img src="deadline reminder 2.png" width="600">
-<img src="deadline reminder 3.png" width="600">
+<img src="deadline reminder 1.png" width="1200">
+<img src="deadline reminder 2.png" width="1200">
+<img src="deadline reminder 3.png" width="1200">
 
 ## Result:
-<img src="result.png" width="600">
+<img src="result.png" width="1200">
